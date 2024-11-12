@@ -1,0 +1,27 @@
+{
+    "language1": "persian",
+    "label1": "فیلتر بر اساس:",
+    "@language1": {
+      "description": "The current Language"
+    },
+    "language2": "persian",
+    "label2": "مشاهده همه",
+    "@language2": {
+      "description": "The current Language"
+    },
+    "language3": "persian",
+    "label3": "مشاهده سفارش‌های معلق",
+    "@language3": {
+      "description": "The current Language"
+    },
+    "language4": "persian",
+    "label4": "درخواست کمک",
+    "@language4": {
+      "description": "The current Language"
+    },
+    "language5": "persian",
+    "label5": "مشاهده سبد خرید و پرداخت",
+    "@language5": {
+      "description": "The current Language"
+    }
+}

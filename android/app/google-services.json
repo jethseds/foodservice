@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900118851677",
+    "project_id": "foodservice-5bb53",
+    "storage_bucket": "foodservice-5bb53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900118851677:android:f9cd91cdb4e210473f9db4",
+        "android_client_info": {
+          "package_name": "com.example.foodservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSebpWZjLgaaFJ5RKg4iVOOSivthjiHXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

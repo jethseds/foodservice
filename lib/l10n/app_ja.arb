@@ -1,0 +1,28 @@
+
+{
+    "language1": "japanese",
+    "label1": "フィルタ:",
+    "@language1": {
+      "description": "The current Language"
+    },
+    "language2": "japanese",
+    "label2": "すべて見る",
+    "@language2": {
+      "description": "The current Language"
+    },
+    "language3": "japanese",
+    "label3": "保留中の注文を見る",
+    "@language3": {
+      "description": "The current Language"
+    },
+    "language4": "japanese",
+    "label4": "支援のために連絡する",
+    "@language4": {
+      "description": "The current Language"
+    },
+    "language5": "japanese",
+    "label5": "カートを確認 & チェックアウト",
+    "@language5": {
+      "description": "The current Language"
+    }
+}

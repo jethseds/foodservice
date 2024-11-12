@@ -1,0 +1,27 @@
+{
+    "language1": "indonesian",
+    "label1": "Filter Berdasarkan:",
+    "@language1": {
+      "description": "Bahasa saat ini"
+    },
+    "language2": "indonesian",
+    "label2": "Lihat Semua",
+    "@language2": {
+      "description": "Bahasa saat ini"
+    },
+    "language3": "indonesian",
+    "label3": "Lihat Pesanan Tertunda",
+    "@language3": {
+      "description": "Bahasa saat ini"
+    },
+    "language4": "indonesian",
+    "label4": "Hubungi untuk Bantuan",
+    "@language4": {
+      "description": "Bahasa saat ini"
+    },
+    "language5": "indonesian",
+    "label5": "Lihat Keranjang & Checkout",
+    "@language5": {
+      "description": "Bahasa saat ini"
+    }
+}

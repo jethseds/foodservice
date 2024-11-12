@@ -1,0 +1,27 @@
+{
+    "language1": "english",
+    "label1": "Filter By:",
+    "@language1": {
+      "description": "The current Language"
+    },
+    "language2": "english",
+    "label2": "See All",
+    "@language2": {
+      "description": "The current Language"
+    },
+    "language3": "english",
+    "label3": "View Pending Orders",
+    "@language3": {
+      "description": "The current Language"
+    },
+    "language4": "english",
+    "label4": "Call for Assistance",
+    "@language4": {
+      "description": "The current Language"
+    },
+    "language5": "english",
+    "label5": "View Cart & Checkout",
+    "@language5": {
+      "description": "The current Language"
+    }
+}

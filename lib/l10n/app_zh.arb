@@ -1,0 +1,27 @@
+{
+    "language1": "chinese",
+    "label1": "筛选条件:",
+    "@language1": {
+      "description": "The current Language"
+    },
+    "language2": "chinese",
+    "label2": "查看全部",
+    "@language2": {
+      "description": "The current Language"
+    },
+    "language3": "chinese",
+    "label3": "查看待处理订单",
+    "@language3": {
+      "description": "The current Language"
+    },
+    "language4": "chinese",
+    "label4": "联系以获得帮助",
+    "@language4": {
+      "description": "The current Language"
+    },
+    "language5": "chinese",
+    "label5": "查看购物车 & 结账",
+    "@language5": {
+      "description": "The current Language"
+    }
+}
